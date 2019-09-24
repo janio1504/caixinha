@@ -11,16 +11,14 @@
         </div>
 
         <div id="buscar-pessoa">
-            <form class="form-inline" method="post">        
+            <form class="form-inline" id="form-busca" method="post">        
                 <input style="width: 400px" type="text" class="form-control" name="nome" placeholder="Buscar Pessoa">
 
                 <button type="submit" class="btn btn-primary mb-4">Buscar</button>
 
             </form>
         </div>
-        <div id="tabela">
-            
-        </div>
+        <div id="tabela"></div>
     </nav>
 </div>
 

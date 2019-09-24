@@ -3,11 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/var/www/caixinha/Dao/PessoaDao.php</file>
-            <file>file:/var/www/caixinha/Classes/Erro.php</file>
-            <file>file:/var/www/caixinha/Classes/Emprestimo.php</file>
-            <file>file:/var/www/caixinha/js/main.js</file>
-            <file>file:/var/www/caixinha/Apps/Conexao.php</file>
+            <file>file:/var/www/servicos_old/Dao/ServidorDao.php</file>
+            <file>file:/var/www/servicos_old/Dao/PessoaDao.php</file>
+            <file>file:/var/www/servicos_old/Classes/Servidor.php</file>
+            <file>file:/var/www/servicos_old/js/biblioteca.js</file>
+            <file>file:/var/www/servicos_old/Views/migrarServidor.php</file>
+            <file>file:/var/www/servicos_old/js/main.js</file>
+            <file>file:/var/www/servicos_old/js/servidor.js</file>
+            <file>file:/var/www/servicos_old/Controllers/TerminalController.php</file>
         </group>
     </open-files>
 </project-private>

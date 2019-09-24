@@ -1,7 +1,14 @@
+
 <?php
 
 require './bootstrap.php';
+
+if(isset($argv)){ 
+    new TerminalController();    
+}else{
+
 $control = null;
+
 
 if (isset($_GET['control'])) {
     $control = $_GET['control'] . "Controller";
@@ -11,4 +18,4 @@ if (isset($_GET['control'])) {
     new Controller;
 }
 
-
+}
